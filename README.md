@@ -10,7 +10,7 @@ Python scraper that automates downloading LK3 LN vessel report data from the pub
 
 ## Usage (Google Colab)
 1. Open `inaportnet_scraper.ipynb` in Google Colab.
-2. Set `BULAN_LIST` (months), `TAHUN` (year), and `DELAY` (seconds between requests).
+2. Set `BULAN_LIST` (months), `TAHUN` (year).
 3. Run all cells in order. Results download as `hasil_lk3_ln.zip`.
 
 ## Tech stack
